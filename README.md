@@ -1,0 +1,2 @@
+# JavaScriptNinja
+JavaScript ninja examples 
